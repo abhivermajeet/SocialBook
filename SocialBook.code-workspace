@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "SocialBook",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "SocialBook"
+	}
+}
